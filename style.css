@@ -8,7 +8,6 @@ body {
     font-size: 16px;
     font-family: 'Coming Soon', sans-serif;
     text-align: center;
-    /* background-color: rgb(70, 133, 140); */
 }
 main{
     margin-top: 3rem;
@@ -65,7 +64,6 @@ li{
     position: absolute;
     right: 10px;
     transition: all 200ms;
-    /* background-color: red; */
 }
 .dlt-btn:hover{
     color: #BF4F4E;
